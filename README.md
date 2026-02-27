@@ -20,8 +20,8 @@
 
 ### 1. Клонируй репозиторий
 ```bash
-git clone https://github.com/YOUR_USERNAME/AiYasha.git
-cd AiYasha
+git clone https://github.com/Kleshzz/NeiroYasha-bot.git
+cd NeiroYasha-bot
 ```
 
 ### 2. Установи зависимости
@@ -71,7 +71,4 @@ AiYasha/
 
 ## 👤 Автор
 
-Создано с 🌿 by **boranick**
-
-- Telegram: [@boranick](https://t.me/boranick)
 - Discord: `1kleshzz`
